@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "grades": [
+            85,
+            90,
+            92
+        ],
+        "active": true
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "grades": [
+            78,
+            88,
+            95
+        ],
+        "active": true
+    },
+    {
+        "id": 3,
+        "name": "Charlie",
+        "grades": [
+            92,
+            94,
+            89
+        ],
+        "active": false
+    }
+]

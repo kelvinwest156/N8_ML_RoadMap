@@ -1,0 +1,9 @@
+{
+    "name": "Kelvin",
+    "age": 55,
+    "city": "California",
+    "hobbies": [
+        "meditation, gaming, coding"
+    ],
+    "is_student": false
+}
